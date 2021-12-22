@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Hyunjin Cho</h1>
 <h3 align="center">A patient frontend developer from South Korea</h3>
 
-- 🔭 I’m currently working on **school stuff**
+- 🔭 I’m currently working on **revewing JavaScript**
 
-- 🌱 I’m currently learning **Python and Android Studio**
+- 🌱 I’m currently learning **React**
 
 - 📫 How to reach me **jhj176610@gmail.com**
 
